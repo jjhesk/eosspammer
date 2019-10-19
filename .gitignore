@@ -102,3 +102,17 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.DS_Store
+
+lissmx_t2.txt
+
+lissmx.txt
+
+lissx.txt
+
+open_bot.sh
+
+sendereos.py
+
+sendspam.py
